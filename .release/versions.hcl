@@ -9,10 +9,10 @@ active_versions {
     ce_active = true
   }
   version "1.17.x" {
-    ce_active = false
+    ce_active = true
   }
   version "1.16.x" {
-    ce_active = false
+    ce_active = true
     lts       = true
   }
 }
